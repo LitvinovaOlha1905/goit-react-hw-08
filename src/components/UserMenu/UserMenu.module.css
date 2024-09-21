@@ -1,0 +1,13 @@
+.user_menu {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.descr {
+  color: rgb(255, 85, 85);
+  transition: all 0.3s;
+}

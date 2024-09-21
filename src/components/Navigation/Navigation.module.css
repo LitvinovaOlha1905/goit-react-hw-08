@@ -1,0 +1,15 @@
+.navigation {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.link {
+  font-size: 22px;
+  color: inherit;
+}
+
+.link_active {
+  color: rgb(255, 85, 85);
+  transition: all 0.3s;
+}
